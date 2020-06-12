@@ -420,4 +420,7 @@ gc:
 	git commit -a 
 
 up:
-	git push
+	git push -u origin master
+
+m:
+	vim Makefile
